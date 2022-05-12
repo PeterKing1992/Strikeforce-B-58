@@ -4,6 +4,6 @@
 - The longer a player survives, the more score he/she obtains.
 - Player can pick up various powerups to help making the game easier.
 
-Note: Please do not reuse or resubmit code from this repository in any of your future course.
+Note: Please do not reuse or resubmit code from this repository in any of your future courses.
 
 [Project Demo](https://youtu.be/k5wtSwFGKk0)
